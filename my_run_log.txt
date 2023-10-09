@@ -1,0 +1,79 @@
+Start Getting malicious IPs
+../threatwall_log/log/140.123.103.62_2023-04-01.log
+../threatwall_log/log/140.123.103.62_2023-04-02.log
+../threatwall_log/log/140.123.103.62_2023-04-03.log
+../threatwall_log/log/140.123.103.62_2023-04-04.log
+../threatwall_log/log/140.123.103.62_2023-04-05.log
+../threatwall_log/log/140.123.103.62_2023-04-06.log
+../threatwall_log/log/140.123.103.62_2023-04-07.log
+../threatwall_log/log/140.123.103.62_2023-04-08.log
+../threatwall_log/log/140.123.103.62_2023-04-09.log
+../threatwall_log/log/140.123.103.62_2023-04-10.log
+../threatwall_log/log/140.123.103.62_2023-04-11.log
+../threatwall_log/log/140.123.103.62_2023-04-12.log
+../threatwall_log/log/140.123.103.62_2023-04-13.log
+../threatwall_log/log/140.123.103.62_2023-04-14.log
+../threatwall_log/log/140.123.103.62_2023-04-15.log
+../threatwall_log/log/140.123.103.62_2023-04-16.log
+../threatwall_log/log/140.123.103.62_2023-04-17.log
+../threatwall_log/log/140.123.103.62_2023-04-18.log
+../threatwall_log/log/140.123.103.62_2023-04-19.log
+../threatwall_log/log/140.123.103.62_2023-04-20.log
+../threatwall_log/log/140.123.103.62_2023-04-21.log
+../threatwall_log/log/140.123.103.62_2023-04-22.log
+../threatwall_log/log/140.123.103.62_2023-04-23.log
+../threatwall_log/log/140.123.103.62_2023-04-24.log
+../threatwall_log/log/140.123.103.62_2023-04-25.log
+../threatwall_log/log/140.123.103.62_2023-04-26.log
+../threatwall_log/log/140.123.103.62_2023-04-27.log
+../threatwall_log/log/140.123.103.62_2023-04-28.log
+../threatwall_log/log/140.123.103.62_2023-04-29.log
+../threatwall_log/log/140.123.103.62_2023-04-30.log
+../threatwall_log/log/140.123.103.62_2023-05-01.log
+../threatwall_log/log/140.123.103.62_2023-05-02.log
+../threatwall_log/log/140.123.103.62_2023-05-03.log
+../threatwall_log/log/140.123.103.62_2023-05-04.log
+../threatwall_log/log/140.123.103.62_2023-05-05.log
+../threatwall_log/log/140.123.103.62_2023-05-06.log
+../threatwall_log/log/140.123.103.62_2023-05-07.log
+../threatwall_log/log/140.123.103.62_2023-05-08.log
+../threatwall_log/log/140.123.103.62_2023-05-09.log
+../threatwall_log/log/140.123.103.62_2023-05-10.log
+../threatwall_log/log/140.123.103.62_2023-05-11.log
+../threatwall_log/log/140.123.103.62_2023-05-12.log
+../threatwall_log/log/140.123.103.62_2023-05-13.log
+../threatwall_log/log/140.123.103.62_2023-05-14.log
+../threatwall_log/log/140.123.103.62_2023-05-15.log
+../threatwall_log/log/140.123.103.62_2023-05-16.log
+../threatwall_log/log/140.123.103.62_2023-05-17.log
+../threatwall_log/log/140.123.103.62_2023-05-18.log
+../threatwall_log/log/140.123.103.62_2023-05-19.log
+../threatwall_log/log/140.123.103.62_2023-05-20.log
+../threatwall_log/log/140.123.103.62_2023-05-21.log
+../threatwall_log/log/140.123.103.62_2023-05-22.log
+../threatwall_log/log/140.123.103.62_2023-05-23.log
+../threatwall_log/log/140.123.103.62_2023-05-24.log
+../threatwall_log/log/140.123.103.62_2023-05-25.log
+../threatwall_log/log/140.123.103.62_2023-05-26.log
+../threatwall_log/log/140.123.103.62_2023-05-27.log
+../threatwall_log/log/140.123.103.62_2023-05-28.log
+../threatwall_log/log/140.123.103.62_2023-05-29.log
+../threatwall_log/log/140.123.103.62_2023-05-30.log
+../threatwall_log/log/140.123.103.62_2023-05-31.log
+../threatwall_log/log/140.123.103.62_2023-06-01.log
+../threatwall_log/log/140.123.103.62_2023-06-02.log
+../threatwall_log/log/140.123.103.62_2023-06-03.log
+../threatwall_log/log/140.123.103.62_2023-06-04.log
+../threatwall_log/log/140.123.103.62_2023-06-05.log
+../threatwall_log/log/140.123.103.62_2023-06-06.log
+../threatwall_log/log/140.123.103.62_2023-06-07.log
+../threatwall_log/log/140.123.103.62_2023-06-08.log
+../threatwall_log/log/140.123.103.62_2023-06-09.log
+Done getting malicious ip!
+Ready to dump NetFlow log...
+date: 20230401
+date: 20230428
+date: 20230429
+../NetFlow_log/20230429 not found.
+date: 20230430
+../NetFlow_log/20230430 not found.

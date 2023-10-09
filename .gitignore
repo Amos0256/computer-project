@@ -1,0 +1,17 @@
+# ignore __pycache__
+/code/utils/__pycache__
+/code/__pycache__
+/utils/__pycache__
+/__pycache__
+/**/__pycache__
+
+# ignore .ipynb_checkpoints
+/**/*.ipynb_checkpoints/
+
+# ignore .ipynb
+/**/*.ipynb
+
+# ignore .txt
+/**/*.txt
+
+
